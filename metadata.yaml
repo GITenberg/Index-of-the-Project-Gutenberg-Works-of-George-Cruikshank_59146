@@ -1,0 +1,29 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-George-Cruikshank_59146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of George Cruikshank
+url: http://www.gutenberg.org/ebooks/59146
